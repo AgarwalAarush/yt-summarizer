@@ -1,0 +1,17 @@
+In this video, the topic of eigenvectors and eigenvalues is discussed. The speaker acknowledges that this topic can be unintuitive for students and often leaves them with unanswered questions. Having a solid visual understanding of matrices as linear transformations, determinants, linear systems of equations, and change of basis is essential for understanding eigenvectors and eigenvalues.
+
+The speaker starts by considering a linear transformation in two dimensions represented by a matrix. They explain that most vectors will be knocked off their span during the transformation, but some special vectors, called eigenvectors, remain on their span and are only stretched or squished by a scalar factor. For example, the basis vector i-hat remains on the x-axis and gets stretched by a factor of 3. Another eigenvector is (-1, 1), which gets stretched by a factor of 2.
+
+Each eigenvector is associated with an eigenvalue, which represents the factor by which it stretches or squishes during the transformation. The speaker gives an example of a three-dimensional rotation where finding an eigenvector would reveal the axis of rotation.
+
+To compute eigenvectors and eigenvalues, the speaker introduces an expression involving matrix-vector multiplication and scalar-vector multiplication. They explain that finding eigenvectors and eigenvalues requires finding values that satisfy this expression.
+
+The speaker then explains the computational ideas behind finding eigenvectors and eigenvalues. They introduce a new matrix by subtracting λ (a variable) from the diagonal entries of the original matrix. To find eigenvectors, one needs to solve the system of equations where this new matrix multiplied by a vector gives the zero vector. The determinant of this new matrix being zero indicates the existence of eigenvectors.
+
+To illustrate these concepts, examples are provided. For example, for a given matrix with columns (3, 0) and (1, 2), it is determined that the possible eigenvalues are 2 and 3. Eigenvectors corresponding to these eigenvalues are found by plugging in the values of λ and solving for the vectors that make the resulting matrix multiplied by the vector equal to zero.
+
+The video also discusses cases where certain transformations, like a 90-degree rotation, don't have eigenvectors, and the determinant of the matrix representing the transformation indicates this. Additionally, the video mentions the concept of an eigenbasis, where the basis vectors themselves are eigenvectors, and the corresponding matrix is diagonal.
+
+The video concludes by mentioning that changing to an eigenbasis can make matrix operations easier, and it is discussed how to express a transformation in different coordinate systems using a change of basis matrix.
+
+Overall, eigenvectors and eigenvalues are important concepts in linear algebra that help understand linear transformations in terms of stretching, squishing, and rotating vectors.

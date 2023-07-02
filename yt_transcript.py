@@ -32,3 +32,5 @@ def get_transcript(video_url):
     file = open(file_name, "w")
     file.write(video_transcript)
     file.close()
+
+get_transcript("https://www.youtube.com/watch?v=6ysjqCUv3K4")

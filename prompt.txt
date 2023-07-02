@@ -1,6 +1,6 @@
 Take the following video transcript and create a summarization that abides by the following rules:
 - The summary explains the main points and includes the examples given in the following text
-- The summary maintains the chronological order of the video transcript
-- The summary has all the code and formulas mentioned and alluded to in the video and all of them are in code block formats
 - For each example, explain the process behind it
+- The summary maintains the chronological order of the video transcript
+- The summary explicitly has all the code and formulas mentioned and alluded to in the video
 - Do not use any form of bullet points or number lists
