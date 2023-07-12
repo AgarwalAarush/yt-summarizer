@@ -1,0 +1,9 @@
+In this video, the concept of binary search is introduced and explained with examples. The goal is to find a target integer in a sorted array. The linear search approach is first discussed, where each element in the array is checked sequentially until the target is found or a larger number is encountered. Linear search has a time complexity of O(n).
+
+Binary search is then presented as a faster alternative. The array is divided into a search region, initially spanning from the first to the last element. The middle element is checked, and based on whether it is less than, equal to, or greater than the target, the search region is narrowed by adjusting the left and right pointers. This process is repeated until the target is found or the search region becomes empty. The time complexity of binary search is O(log n), where n is the number of elements in the array.
+
+To implement binary search, a while loop is used to iterate until the left pointer is greater than the right pointer. The middle index is calculated as the average of the left and right pointers. If the element at the middle index is the target, the index is returned. Otherwise, if the target is less than the middle element, the right pointer is adjusted. If the target is greater, the left pointer is adjusted. If the left pointer becomes greater than the right pointer, indicating that the target is not in the array, -1 is returned.
+
+Two practice problems related to binary search are recommended. The first problem is simply implementing binary search. The second problem, called "shifty binary search," involves a sorted array that has been shifted. The task is to find the position of the target in the shifted array. This problem can be solved in O(log n) time.
+
+Overall, binary search is a powerful technique for efficiently searching sorted arrays.

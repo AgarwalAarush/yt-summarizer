@@ -1,0 +1,13 @@
+This video is about the refraction or bending of light. The video begins by explaining that when light moves through air, it does not bend, but once it hits a glass surface, it bends due to a change in the speed at which it moves through the medium. The video then discusses how the bending of light occurs when it moves from one medium to another and explains that the angle of incidence and the angle of refraction are always measured with respect to the normal line, which is perpendicular to the surface. 
+
+The video introduces Snell's Law as a way to quantify the bending of light. The formula for Snell's Law is given as n1 sin(theta1) = n2 sin(theta2), where n1 and n2 are the indices of refraction of the two mediums and theta1 and theta2 are the angles of incidence and refraction, respectively. It is explained that the index of refraction represents the speed at which light travels through a medium.
+
+The video then discusses how increasing the angle of incidence can eventually lead to a critical angle, beyond which total internal reflection occurs, meaning none of the light is refracted or transmitted through the boundary between the two mediums. 
+
+An analogy with a marching band walking along a road is used to help understand how light behaves when it enters different mediums at different speeds. The analogy explains that if the marching band enters a slower medium, it will slow down and bend towards the normal, while if it enters a faster medium, it will speed up and bend away from the normal.
+
+The video further demonstrates these concepts using a prism and a PHET simulation. It shows that when light enters a prism where it moves slower, it bends towards the base of the prism, while when it exits the prism and moves faster, it bends away from the base. The analogy with the marching band helps predict which side of the marching band will slow down or speed up first in these scenarios.
+
+The video concludes by showing examples of how Snell's Law can be applied to solve problems involving the bending of light. It provides an example where the angle of incidence is given, and the angle of refraction needs to be calculated using the formula for Snell's Law. Another example is given where the angle of refraction is given, and the index of refraction needs to be calculated using Snell's Law.
+
+Overall, the video explains the main points about the bending of light and provides multiple examples and analogies to help understand and apply these concepts.

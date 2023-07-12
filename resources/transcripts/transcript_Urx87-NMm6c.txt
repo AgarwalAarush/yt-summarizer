@@ -1,0 +1,28 @@
+today i'm going to teach you depth first search   depth first search or dfs is an algorithm for 
+searching a graph as the name implies we'll use   dfs to search a graph vertically before we proceed 
+horizontally when you think of depth first search   i want you to remember a stack as this is the data 
+structure that keeps track of vertices we'll visit   let's perform dfs on the following graph we want 
+to know all the nodes that are discoverable from   the root node a along the way we'll keep track 
+of two things first nodes we've visited will be   colored black nodes that are in the stack that 
+are in line to be visited will be colored gray   starting our algorithm a is 
+the first node we'll visit   we'll keep track of the stack in the top left 
+corner we pop a from the stack and mark it visited we also add its adjacent nodes into the stack 
+i'm adding the rightmost node first because i   think it's easier to follow visually if we go left 
+to right b is the next node popped from the stack we mark it as visited notice g is the only node 
+in the stack but as we add b's adjacent nodes   g gets moved to the bottom c is the next node we'll pop c and d have no children so 
+nothing to add to the stack we reach e and add its child 
+f to the top of the stack i'll let the rest of the 
+algorithm finish without voiceover finally there is nothing left in the 
+stack so our algorithm is finished   here's the code for debt first search 
+there is a link to a working python example   in the description the code is very 
+similar to breadth first search   except a stack is used instead of a queue on the 
+left is our graph represented as an adjacency list   let's walk through the code on the right we 
+first add the root node to both the visited list   and the stack we loop while the stack is not 
+empty popping the top element from the stack   we iterate through the adjacent nodes notice 
+the reversed function that has the rightmost   node into the stack first so we visit it last 
+if the adjacent node has not yet been visited   we add it both to the visited list and the stack note that you can code this 
+both iteratively and recursively   i've chosen the iterative approach here 
+because i think it's easier to follow let's discuss time complexity which 
+is the same as breadth first search   if you think about our example in the worst case 
+we're going to visit each node and explore every   edge therefore the time complexity of dfs is big 
+o of the number of vertices plus number of edges   thank you for watching please subscribe and share 

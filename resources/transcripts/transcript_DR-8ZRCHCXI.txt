@@ -1,0 +1,139 @@
+Hi. It’s Mr. Andersen and this AP Physics
+essentials video 120. It is on the refraction of light or the bending of light. And you
+can see in this picture here there is a lot of bent light going on. And so what really
+happens? If we look at a laser light, as it moves through the air you can see there is
+no refraction of light or bending of light. But once it hits this glass surface there
+is a bending of the light. Now there is a little bit of reflection off of the surface
+but there is a lot of refraction or bent transmitted light like this. And the reason it is bending
+is because we are changing the speed at which it is moving through the medium. And I will
+give you an analogy that is going to help you in a little bit. What would happen if
+we go straight into the medium? It is just going to go straight through. And so if you
+look on the glass to the left the light that is coming straight through the middle where
+the surface is flat, it is not being refracted at all. It is only on that bent surface where
+we see that major refraction. And so when light moves from one medium to another, it
+can be reflected, absorbed or transmitted. Now in this video we are dealing with light
+that is transmitted into that other medium. Now in this example however the light came
+in at a straight angle. And so we do not see that refraction. But what happens if it comes
+in at an angle that is not along the normal, or not along the perpendicular? And so these
+are the two mediums, this is the one on the left and the one on the right. This would
+be the boundary between the two and then this is the normal line right here. And so what
+happens if it comes in from one medium, enters another medium where it is going the same
+exact speed? There is going to be no change in the angle. It is just going to go straight
+through. Just like light goes straight in air, because the medium is never changing.
+What happens however if it goes from one medium to another and that second medium, it actually
+travels slower? As it does that it will actually bend towards the normal or it is going to
+bend towards that dotted line or the perpendicular line. I will give you an analogy that will
+help you to remember that. What happens if it comes in and it is moving into a faster
+medium? It will actually bend away from that normal. So it is going to bend like like that.
+Now that is called refraction. We see the bending of the light and we can actually quantify
+that using something called Snell’s Law. Snell’s Law, to quantify it, we have to
+add a couple of different variables. We first of all have to define this as the angle of
+incidence and this as the angle of refraction. Again, we are always measuring the angle between
+the normal and the light ray itself. And then we have n1 and n2. So this is what the formula
+for Snell’s Law looks like. And so the index of refraction, we call that n1, on one side,
+times the sign of the angle equals the index of refraction on the other side times the
+sine of the angle of refraction on the other side. And so we can actually figure out what
+angle it is going to bend at if we know a little bit about the speed at which it is
+going through. And we also, if we see the bend, we could figure out the speed at which
+it is going through as well. Because the index or the refraction is equal to the speed of
+light divided by the velocity. Now if we take that angle and we start to increase it, increase
+the angle of incidence, we eventually can reach what is called a critical angle. And
+instead of being refracted it will not be refracted. It will just go straight along
+the margin. And if we increase it above the critical angle then it is going to be reflected
+into that first medium. And so what happens is eventually if you get the angle right you
+will have to have total internal reflection. None of it is being refracted or transmitted
+through that boundary. And so let’s get to that analogy I was talking about a second
+ago. And so imagine we have a marching band that is all walking together. And so we are
+looking at the marching band, the trumpet players, and we are looking at them from above.
+And as they are marching they are trying to keep the space between them the same. So to
+the person to your left or the person to your right we want to keep that exactly the same.
+And so imagine that they are marching down a road. You can see that they are going to
+keep the that spacing between them the same. But let’s say that there is a bunch of sand
+in the road. And so what is going to happen to their speed as they enter into the sand?
+Well the ones that enter into the sand first are going to slow down. But since they have
+kept that distance between them the same you can see that the angle at which we came in
+equals the angle at which we came out. So we do not see that refraction going on. But
+now let’s set it up so they are marching in at an angle like this. And so they are
+marching across let’s say a parking lot and they are going to hit some sand as well.
+So what happens is as they come in, which one is going to start to slow down first?
+Well it is going to be this one right here. They are still going to keep this distance
+between all of them the same. And so watch what happens as they enter into the sand.
+You can see they are bending like that. And so we are going from a medium where it is
+faster to one where it is slower. So if I put in that normal right here, what happened?
+This is our angle of incidence, so it is big. What happens to our angle of refraction? It
+is going to be small. In other words it is approaching that normal. And so you always,
+when you are looking at problems with refraction, you want to imagine that marching band in
+your head and figure out which way it is going to go. So let’s try that again. We have
+a marching band now going through sand and they are going to come out into an area where
+they go faster. So they are all going slow, but they are going in a straight line. Now
+which one is going to start to go faster first? Well it is going to be this one right here.
+They are keeping the distance between them all the same and so watch what happens now.
+So it is bending like that. And so if we put in that normal again, our angle is actually
+increasing. Our angle of refraction is going to be bigger. Let’s try to apply that with
+a prism. Let’s say that we have a light ray coming into a prism like this and inside
+the prism the light goes slower. So in the glass it is going to go at a slower rate.
+And so what is going to happen as the marching band approaches? Try to figure this out in
+your head. I can see that the right side is going to start to slow down first. And so
+if that does not work, you could just memorize putting in the normal and then figure out
+what happens to our angle of incidence and angle of refraction. But it is going to bend
+to the right like that. What happens if we go to the next one? So which side of the marching
+band is going to start to accelerate first as we move out? It is going to be the left
+side. If that does not work, again you could put in the normal and we could say that we
+are going to see an increase in that angle of refraction or it is going to bend like
+that. Now we could even make sure that that is right. So this is a PHET simulation. You
+can shoot a laser at different prisms. So if I turn the laser light on you can see that
+refraction occurring. And once you figure out this analogy, it works really well. So
+in other words, what is going to happen if we shine a light right at a sphere and we
+are going to try to hit it right along the normal? So it is hitting it flat. What should
+happen to the refraction? Let’s try it. You can see that it is not lined up perfectly,
+but it is going to go straight through. Let’s try another one. What is going to happen here
+if we hit it at an angle like this. Where is going to be the bend? And so which one
+is going to start to slow down first? I would say the marching band, you know, put yourself
+in that position, but the marching band on the right side is going to slow up first.
+What is going to happen as we bend, as we come out here? Try to figure it out in your
+head? But this is what it would look like. So we are going to get refraction that looks
+like that. And so you can see the more I get that bend, the more refraction. Or I could
+go in the other direction. That is why we could hold this sphere up and if we look at
+it the light coming from the other side is getting inverted. It is turning upside down
+due to the refraction of the light coming through. Now let’s quantify a little bit.
+So we are going to use Snell’s Law in a PHET simulation. Remember the index of refraction
+times sine of the angle of incidence, it is how it comes in, equals the index of refraction
+on the other side. And so index of refraction, remember is related to the velocity. And so
+the index of refraction goes up as the velocity decreases. So let’s take a look at this.
+So we have a laser light bouncing off the surface. And so you can see there is a lot
+of reflection going on. But a lot of that light is also going to be refracted on the
+surface. And so in this problem if you know the angle at which it comes in, could you
+figure out the angle of refraction? You need Snell’s Law to do that. So I would write
+it out like this. And then let me look at what information I have. So I have the angle
+at which it is coming in. So that is a given. I also know in air the index of refraction
+is 1. I am also given the index of refraction of the surface down here, the glass is 1.5.
+And so what am I really trying to solve for? I want to figure out that angle of refraction,
+how it comes out. So that is going to be my theta 2. So I plug in what I know. So this
+is index of refraction of the light, the angle coming in, index refraction of the glass and
+this is the angle coming out. So I solve for that. Now I have sine of theta 2 equals 0.577.
+So I have to take the inverse sine to figure out what that angle is going to be. And so
+I get around 35 degrees. And so you may want to pause the video and make sure that you
+get an answer that is similar to that. And now we could remove the question mark and
+you can see that that angle is going to be at 35 degrees. Also you can see that it is
+less. And the reason it is less is we are going from an area where it is faster to an
+area where it is going to be slower. Now you could also have the problem presented like
+this. So in this problem, what am I giving you? I am giving you the actual refraction.
+So it is coming in at an angle of 60 degrees. You could see that the angle of refraction
+is going to be 20 degrees. And so could you figure out the index of refraction? Same thing.
+We are going to use Snell’s Law and now you just have that one known, or those three
+knowns and the one unknown that we do not have is going to be n2. Now what is interesting
+is if we look at material moving from an area of slow to fast, it would look like this.
+As we turn the angle, you can see that we are getting more refraction. But as we keep
+turning the angle more and more and more you can see that less of that light is being refracted
+or making its way through. And eventually what we approach is something called the critical
+angle. Once we reach the critical angle then we do not get light be transmitted into that
+next surface. And so what eventually happens is it is reflected back into this original
+medium. Now when all of it gets returned back into the medium we call that total internal
+reflection. And so if we look at this sea turtle right here the reason you are seeing
+its reflection up here on the surface is that light is not moving out. It is being reflected
+to you because of the angle at which you are looking at that turtle. And so did you describe
+models of light traveling from one boundary into another when the speed of propagation
+changes? Could you find the relationship using Snell’s Law? And then finally, could you
+make predictions? The go to analogy is that marching band analogy. Remember they are going
+to keep the distance between them the same. But depending on which one starts to speed
+up or slow down first, we are going to get that refraction. And I hope that was helpful. 

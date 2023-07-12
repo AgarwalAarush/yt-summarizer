@@ -1,0 +1,75 @@
+There are many different ways to put a shelf
+of books in order. Alphabetically by author, or by title. By subject. Or by the colour of the spine. Those are all valid approaches
+for different situations: if you’re a bookstore that has a lot of
+customers coming in and saying “I don’t remember the title, but I know
+it was red…” then sorting by colour is a reasonable approach. In 1876, an American librarian called
+Melvil Dewey published a four-page pamphlet describing how he thought a public library
+should be ordered. Before Dewey, books in many libraries were
+ordered by when they were purchased. As new books arrived, they’d just be allotted
+to a shelf or a box that matched their size, and there’d be a central card file somewhere
+listing where everything was. You would have to ask a librarian if you wanted
+a certain book, and they’d retrieve it for you. Just browsing the shelves wasn’t a thing. Dewey gave each subject an index number, and then said that the shelves should be ordered
+by that number. Over the years, the Dewey Decimal system
+became a standard. Dewey had solved a serious problem: how to sort and find information,
+without having to bother the head librarian. And because books were
+clustered by their subject, it encouraged general-interest
+browsing of the shelves. Side note: while researching this, I found out that Dewey was a terrible person. Not in a “oh, but he was of his time”
+way, like, he resigned from the American Library
+Association because of sexual harassment complaints in 1905. How bad do you have to be in 1905 to get kicked- His sexist and racist biases made it into
+the early versions of the Dewey Decimal system. Lots of libraries these days use completely
+different classifications. But, yeah, we do still remember his name. Anyway, here’s the key point: by creating
+a useful index and sorting by it, readers could find books more quickly. That same principle of indexing applies to
+computers, and has since the early days. There are two basic ways that a
+computer can search: linear and binary. Let’s say you’ve got a stack of cards. They’ve got numbers on them that are somewhere
+between 1 and 50. and you want to find lucky number 13. If it’s a shuffled stack, then there’s no shortcut: you just run through, looking at one card after another
+after another after another, until eventually you find number 13. That is linear search: going through every card in a stack,
+every element in a list, until you find the one
+or many that you’re looking for. That’ll work on any list, in any order. But most of the time, it will be slow. But what if the cards are in order by number? Sure, you have to spend some time to sort them. I’ve got a whole other video about that. But once you’ve done that, once they’re in order,
+you can use a binary search. Binary not in terms of
+zeros and ones on disk, but binary in terms of
+splitting things in two. Look at the middle item of the list. Is it higher or lower than the number we’re
+looking for, 13? So in this case, it’s lower. So we can forget about the first half of the
+list, and we can do the same again. Look in the middle of what's left, forget about the side that we don’t want,
+look in the middle, forget about the side we don't want,
+and so on, and so on, and so on, until eventually we find the card we’re looking for or we know it’s not in the list at all. Okay, with eleven cards, binary search doesn’t
+make much difference. But with a million cards, it is lightning-fast compared to linear search. Provided that the list is in order. But a stack of cards is a simple example. A database is much more complex. Let’s say we don’t just have numbers on
+the cards: we also have letters,
+and let's add some colours as well. We can’t sort the cards by more than one
+of these properties at a time. So right now, I can use binary search for number, but not
+for letter or colour. In the same way that librarians can sort their
+books by title, or author, or colour, you can only optimise for
+one property at a time. For everything else, you’ve got to run through
+every book on the shelf, every card in the stack,
+every item in the list. Unless you use indexes. Now, physically rearranging data on a hard disk,
+moving the cards around, that’s called a “clustered index”. It’s like making sure your dictionary is
+in alphabetical order because that's mostly how
+you're going to use it. But a “non-clustered index” is like the
+index at the back of a book, or a library catalogue. It’s a separate store of just the property
+you’re interested in, stored in a simple, easy-to-access format. If I want to find the card with the letter
+K on it? Well, I can do a binary search
+through the index at speed, identify the number of the card, and then
+use another binary search to go straight to it. If I want to pull all the green cards, I can pull just those out of the colour index,
+index, note down all those numbers, and then pull just those cards.
+There's no linear search happening anywhere. Again: it doesn’t make much difference with
+eleven cards. But with a thousand, or a million, or a billion, that’s the difference between waiting hours
+for a response to your query, and having it in a fraction of a second. Of course, each index that you add takes
+time to create, and space to store. If your computer’s ever been slow because
+of the “Indexing Service” on Windows, or “Spotlight Search” on Mac; that’s it
+taking the time to run through all your files and index
+all the properties that it can, so that when you type something
+into your search bar, it’ll be able to reply as quickly
+as possible. But every time you make any
+change to your database, if you add, remove, or change something, you also have to keep the indices...
+indexes... whichever, up to date. So there’s a skill in choosing which properties,
+which fields in a database, you want to create indices for. If you’re only going to search by colour
+once or twice a year, it might not be worth indexing. As with many things in computer science, there’s a trade-off between space and time. Now, Google say that their full search index
+is 100 petabytes in size, and they’re customising every result from
+it for every user, usually in under a second. Even after all the changes to Google over
+the years, even after all the space that they’ve given
+over to knowledge boxes -- and adverts -- even after all the optimisation they’ve added
+to give the user exactly what they want… Google still put the time it took to answer every query
+on every desktop search result. Because they're still proud of it. Because the logistics and computer science skills
+required to do that are the sort of thing that PhDs are written about. Or, because it’s a trade secret, they’re the sort of thing that commands
+very, very high salaries. It’s a long, long way between Dewey
+and his decimal system and the Google search result. But the basic principle, "create an index",
+is the same. 

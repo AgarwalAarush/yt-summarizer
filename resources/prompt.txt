@@ -1,0 +1,8 @@
+Take the following video transcript and create a summarization that abides by the following rules:
+- The summary explains the main points and includes all of the examples given in the video transcript
+- For each example, explain the process used
+- The summary maintains the chronological order of the video transcript
+- The summary explicitly contains all the code and formulas mentioned and alluded to in the video
+- Do not use any form of bullet points or numbered lists
+- The first sentence should be a short phrase describing the video's topic
+- Maximum paragraph length is 3 sentences

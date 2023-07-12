@@ -1,0 +1,110 @@
+There are few theories in physics with the 
+potential to rewrite reality quite like string   theory. A theory so monumental in scope and 
+ambition, it aims to accomplish the seemingly   impossible task of providing a singular model to 
+explain the laws of the universe at all scales.   But, regardless of its scope and its growing 
+fame, the scientific community has never agreed   upon its validity. And, for the watching world, 
+it can still feel a little difficult to fathom.   So, this is Unveiled, and today we’re 
+answering the extraordinary question;   what is string theory, and 
+how exactly does it work?  Do you need the big questions answered? Are you 
+constantly curious? Then why not subscribe to   Unveiled for more clips like this one? And ring 
+the bell for more thought-provoking content! To over simplify it somewhat - string theory 
+attempts to describe all particles in the universe   as infinitesimally small and vibrating strings. 
+These strings are then one-dimensional objects,   and are hypothesized to be the most fundamental 
+objects in the universe. If it’s correct,   then everything you are, know, see, even 
+think, is the product of these strings.   Over a century ago, in 1915, Albert Einstein 
+presented his newly formulated Field Equations to   the Prussian Academy of Science. These equations 
+provided a beautiful description of how matter   interacts with each other via the force of 
+gravity. They went above and beyond the work   carried out by Isaac Newton a few centuries prior, 
+and explained gravity at the largest scales in   the universe, alongside predicting other phenomena 
+such as time dilation and black holes. Since then,   the model has been proven in multiple ways, 
+and is considered one of the most important   theories in physics. Unfortunately, however, 
+as great as it is, it isn’t complete. General   Relativity - easily one of the most influential 
+contributions to science - still doesn’t provide   an explanation for how gravity interacts on 
+the scale of particles, in the quantum limit.    Surprisingly, the force of gravity is the 
+weakest of the four fundamental forces,   which is perhaps not what you’d expect given 
+that gravity literally moves planets. But,   this means that on the smallest scales of all 
+(atomic and subatomic) gravitational interactions   are incredibly difficult to detect. All of the 
+four fundamental forces have (or should have) a   respective particle that’s responsible for their 
+effect… for example the photon, which mediates   the electromagnetic force. Gravity is then 
+predicted to have its own mediating particle,   called the graviton. But, and again due to that 
+comparative weakness of the gravitational force,   actually detecting the graviton is 
+very, very hard to do. So hard, in fact,   that currently the graviton remains theoretical, 
+only… and is thought to be impossible to observe.    And here’s where we get to string theory. In 
+the 1960s, string theory began formulation   as an attempt to explain how what’s known as 
+the strong nuclear force behaves, which is the   force responsible for holding hadronic particles 
+like protons and neutrons together. The theory   proceeded to develop further in the 1970s, though, 
+eventually attempting to describe all known   particles in the Standard Model. It was then in 
+1974 that the Japanese physicist, Tamiaki Yoneya,   realized that all forms of string theory 
+predicted a massless particle, too. What was   doubly exciting, however, was that this massless 
+particle behaved exactly as was predicted for the   hypothetical graviton. This was monumental, as 
+no theory had naturally provided an explanation   for the graviton before… and still no other 
+theory has since. It was soon after this that   the separate theory of Quantum Chromodynamics took 
+over from string theory as the leading explanation   of hadrons, specifically. However, by now string 
+theory seemingly had bigger fish to fry in   physics… its main purpose shifted, and it became 
+considered as the major contender for explaining   gravity on a quantum scale. As, potentially, the 
+major contender toward a theory of everything.   So that’s the story behind it but, still, 
+how does string theory actually work? Again,   it predicts every particle in the 
+Standard Model, at their most fundamental,   to be vibrating strings - which are 
+assumed to be a Planck length in size;   i.e., the shortest measurable distance. 
+These strings are one-dimensional objects,   and the frequency of their quantum vibrations 
+is what determines what type of particle   the string represents. From a mathematical 
+perspective, the theory is pretty incredible,   providing many advancements which have now been 
+applied to numerous other fields of science. On   the other hand, from a physical perspective, 
+string theory has historically proven to be   a bit of a nightmare. During the 1980s, there 
+were five separate string theories formulated,   with one particular version of those requiring 
+a mind blowing 26 dimensions of reality to   work. But, eventually, in 1995, Professor Edward 
+Witten proposed a new version called M-Theory,   which unified all five of the previous theories 
+into one, and predicted only 11 dimensions in   total - ten spatial and one time. Meanwhile, 
+there is another string theory - superstring   theory - that manages to work with only 9 spatial 
+dimensions predicted, and one time; ten in total.   Broadly, though, what’s clear is that 
+all types of string theory require extra,   unobservable dimensions. So what (or where) 
+are these other dimensions? They’re generally   predicted to be compact; incredibly 
+small and curled up. But, unfortunately,   as yet no one has been able to consistently 
+explain the geometry of any of them,   and so there are essentially infinite ways that 
+these extra dimensions could be described. And,   somewhat despairingly, it seems that the more 
+research that’s been put into figuring them out,   the further string theory has strayed from 
+working. On top of this, there’s no clear   way to physically test for the presence of 
+string theory’s extra dimensions, either. So,   without any mathematical validity or physical 
+observability, the quest has reached a bit of   a dead end… arguably (and perhaps substantially) 
+damaging string theory’s reputation and momentum.    Today, many scientists then consider string 
+theory to be a premature effort to solve the   problem of quantising gravity. General relativity 
+was considered to be an almost fully formulated   theory within just years of its proposal. On 
+the other hand, Quantum Field Theory, the theory   that explains how the fundamental particles of 
+the universe behave, was nowhere near as fully   developed and formulated until the latter half 
+of the century. String theory might’ve been like   quantum field, then… but, the difference is that 
+in the decades since they first turned up, quantum   field theory has made significant progress, while 
+string theory has floundered and become dormant.    There are direct links to be made, too. The main 
+principle of quantum field theory is to describe   all particles as fields, as opposed to them being 
+concentrated point charges. A simplification of   this concept would be to imagine all particles 
+as clouds, as opposed to smooth balls. Probably   the most important offshoot here, however, is 
+something called an Effective Field Theory.   Among other things, this is an intuitive method 
+of making particle calculations, without knowing   the complete specifics of the physical phenomena 
+they’re describing. Effective fields are then free   from mathematical restrictions, which in the days 
+of Einstein made quantising gravity impossible. In   the past decade, there has been significant 
+progress on formalizing general relativity   as an effective field theory. To finally 
+explain how gravity works at a quantum scale.   So, what does this mean for string theory? 
+Its past is complex and its future is a   little muddled. String theory hasn’t 
+ever really been one singular theory,   and there has never been general agreement 
+on which one is best. What’s more,   many of the researchers who pioneered string 
+models now currently work in adjacent fields,   and are trying to look at quantum gravity from 
+other perspectives. Tools that work within the   framework of string theory are still powerful, 
+however. For example, calculations on how   gravitons scatter off each other have been done 
+using entirely string-based methods. Regardless   of string theory’s seeming failure at producing 
+a singular formal theory of everything, then,   its achievements and advances in mathematics 
+should not go unnoticed or unpraised. To this   day it still remains the only theory to naturally 
+predict a graviton, after all… as opposed to the   plethora of rival theories, such as Loop Quantum 
+Gravity, which have never achieved the same feat.    In modern day physics, string theory doesn’t 
+have the same momentum as it used to,   but its impact has still been significant. Beauty 
+can still be seen within it, as it predicts even   the highest powers of the universe to be, at 
+their base, simplistic, fundamental strings.   As for the future, there’s a chance we may 
+someday find a new version of the theory,   free from the problems of prior attempts. Research 
+today in the field is minimal, but there are still   dedicated teams devoted to making progress. 
+It could yet be that we simply don’t have   the required mathematical tools at the moment… 
+but, with time, we might develop them. For some,   there’s also the chance that string theory 
+will one day solve (or contribute to solving)   some of the other big questions in physics, 
+like uncovering the mystery of dark matter.   What do you think will happen? Do 
+you think that, at its vibrating,   stringy core, this model could still prove to be 
+the answer to everything? Or is there another,   entirely new theory just around the 
+corner, one we are yet to even conceive? What do you think? Is there anything we missed? 
+Let us know in the comments, check out these other   clips from Unveiled, and make sure you subscribe 
+and ring the bell for our latest content. 

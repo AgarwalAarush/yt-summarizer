@@ -1,0 +1,9 @@
+In this video, the presenter teaches about Depth First Search (DFS) algorithm, which is used to search a graph vertically before exploring horizontally. The DFS process involves using a stack to keep track of the vertices that are visited. 
+
+The presenter demonstrates how to perform DFS on a given graph starting from a root node, 'a'. The algorithm marks visited nodes as black and adds adjacent nodes to the stack as gray. 
+
+The code for DFS is shown, where a stack is used instead of a queue as in Breadth First Search (BFS). The graph is represented as an adjacency list. The code iteratively pops elements from the stack, visits adjacent nodes in reverse order, and adds unvisited nodes to the visited list and the stack.
+
+The time complexity of DFS is analyzed, which is the same as BFS: O(number of vertices + number of edges). 
+
+The video concludes by thanking the audience and encouraging them to subscribe and share.

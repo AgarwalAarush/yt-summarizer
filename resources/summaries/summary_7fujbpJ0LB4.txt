@@ -1,0 +1,15 @@
+Today, we will be discussing the depth-first search (DFS) algorithm in graph theory. DFS is a traversal algorithm that allows you to explore nodes and edges of a graph. It is easy to code and runs in a time complexity of O(V + E), where V represents the number of vertices and E represents the number of edges in the graph.
+
+DFS can be used to perform various tasks such as counting connected components, determining connectivity between nodes, and finding bridges and articulation points. In a DFS, we start at a node and plunge depth-first into the graph, selecting edges until we cannot go any further. At that point, we backtrack and continue exploring.
+
+Let's look at an example: Starting at node 0, we arbitrarily pick a node to go to (node 9), then to node 8, followed by node 7. From node 7, we visit node 10, then node 11, and back to node 7 again. Since there are still unvisited edges from node 7, we backtrack to node 3. We continue this process until we have explored all reachable nodes and backtrack when necessary.
+
+To code a DFS, we initialize variables representing the number of nodes (n), an adjacency list (G) representing the graph, and a boolean array (visited) indicating if a node has been visited. We start at node 0 and call the DFS method recursively. The method checks if the current node has been visited. If not, it marks the node as visited and recursively explores its neighbors using the adjacency list.
+
+DFS can also be used to find connected components in a graph. To do this, we label each component by assigning all nodes in the component the same ID value. Start with labeling each node from 0 to n-1 (where n is the number of nodes), and for every unvisited node, perform a DFS starting from that node. During the DFS, label all reachable nodes with the same ID. Repeat this process for all unvisited nodes to identify and count the connected components.
+
+The pseudocode for both DFS and finding connected components involves initializing variables, looping through each node, and executing the necessary logic using recursive calls to the DFS method. For finding connected components, we also keep track of a count of components and an array indicating which component each node belongs to.
+
+DFS has various applications such as finding minimum spanning trees, detecting cycles, checking bipartiteness, finding strongly connected components, topological sorting, finding bridges and articulation points, identifying augmenting paths in flow networks, generating mazes, and more.
+
+In the next video, we will be discussing the breadth-first search (BFS) algorithm.
