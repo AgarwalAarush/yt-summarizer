@@ -1,5 +1,6 @@
 # yt-summarizer
-<img width="1182" alt="Screen Shot 2023-07-10 at 11 27 03 PM" src="https://github.com/AgarwalAarush">
+<img width="1182" alt="Screen Shot 2023-07-10 at 11 27 03 PM" src="https://github.com/AgarwalAarush/yt-summarizer/blob/main/assets/Screenshot%202023-07-14%20at%205.02.28%20PM.png">
+
 ## Usage Instructions
 ### Step 1
 ```pip install -r requirements.txt```
