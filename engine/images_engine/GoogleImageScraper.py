@@ -207,7 +207,7 @@ class GoogleImageScraper():
                             rgb_im.save(image_path)
                         image_resolution = image_from_web.size
                         if image_resolution != None:
-                            if image_resolution[0]<self.min_resolution[0] or image_resolution[1]<self.min_resolution[1] or image_resolution[0]>self.max_resolution[0] or image_resolution[1]>self.max_resolution[1]:
+                            if image_resolution[0]<self.min_resolution[0] or image_resolution[1] < self.min_resolution[1] or image_resolution[0]>self.max_resolution[0] or image_resolution[1] > self.max_resolution[1]:
                                 image_from_web.close()
                                 os.remove(image_path)
 
