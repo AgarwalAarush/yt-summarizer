@@ -1,6 +1,6 @@
 # Youtube Summarizer
-**Youtube Summarizer is an easy way to quickly absorb information from youtube videos**
-The application can create pdf summaries of youtube videos for you fit with images to aid in understanding. Use it to quickly review information prior to tests, meetings, and more!
+**Youtube Summarizer is an easy way to quickly absorb information from youtube videos.** <br><br>
+The application can create pdf summaries of youtube videos for you, fit with images to aid in understanding. Use it to quickly review information prior to tests, meetings, and more!
 ## Usage Instructions
 ### Step 1
 ```pip install -r requirements.txt```
