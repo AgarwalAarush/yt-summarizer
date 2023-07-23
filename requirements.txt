@@ -1,3 +1,9 @@
 selenium==3.141.0
 requests==2.25.1
 pillow==9.0.1
+fpdf2==2.7.4
+requests==2.25.1
+beautifulsoup4==4.12.2
+urllib3==1.26.13
+yt-channel-scraper==0.1.1
+reportlab==4.0.4
