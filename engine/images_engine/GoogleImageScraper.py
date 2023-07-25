@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 18 13:01:02 2020
-
-@author: OHyic
-"""
 #import selenium drivers
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
