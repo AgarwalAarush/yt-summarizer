@@ -13,6 +13,6 @@ Edit requirements.txt
 ### Step 4
 ```python main.py```
 ### Step 5
-Generated PDFs will be created in the results folder under the designated youtube video title (e.g. "String Theory")
+Generated PDFs will be created in the results folder under the designated youtube video title (e.g. "String Theory Explained")
 ## Example
 <img width="1182" alt="Screen Shot 2023-07-10 at 11 27 03 PM" src="https://github.com/AgarwalAarush/yt-summarizer/blob/main/assets/Screenshot%202023-07-14%20at%205.02.28%20PM.png">
