@@ -36,7 +36,7 @@ def get_cell_height(text):
     temp.set_auto_page_break(auto=True)
     temp.add_page()
 
-    temp.add_font("JetBrains Mono", '', "assets/JetBrainsMono/JetBrainsMonoNerdFont-Light.ttf")
+    temp.add_font("JetBrains Mono", '', "assets/JetBrainsMonoNerdFont-Light.ttf")
     temp.set_font('JetBrains Mono', '', 8)
 
     initial_y = temp.y
@@ -61,7 +61,7 @@ def create_pdf(video_url) :
     
     num_paragraphs = get_num_paragraphs(get_video_id(video_url))
 
-    pdf.add_font("JetBrains Mono", '', "assets/JetBrainsMono/JetBrainsMonoNerdFont-Light.ttf")
+    pdf.add_font("JetBrains Mono", '', "assets/JetBrainsMonoNerdFont-Light.ttf")
 
     pdf.set_font("JetBrains Mono", '', 12)
 
@@ -143,7 +143,7 @@ def create_pdf(video_url) :
         # Move to Next Image
         image_idx += 1
 
-    pdf.output("resources/documents/%s.pdf" % get_video_id(video_url=video_url))
+    pdf.output("results/%s.pdf" % get_video_title(video_url=video_url))
 
 def alphanumeric(text):
         ans = [c for c in text if c.isalnum()]

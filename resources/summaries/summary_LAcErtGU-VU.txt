@@ -1,0 +1,17 @@
+This tutorial covers how to create Google Cloud Functions using GCP Console, gcloud CLI, and Terraform. The process begins by creating the first function from the UI by enabling Cloud Functions in the GCP project, selecting a region, and choosing an HTTP trigger. The tutorial explains how to enable/disable authentication, secure communications with HTTPS, and customize runtime, connections, and security settings.
+
+Examples are provided for creating and using service accounts, creating an API key in the Secret Manager, accessing the secret from the Cloud Function, and using the GoogleAuth module to get a token for invoking another function.
+
+The tutorial also covers configuring function invocations between multiple functions using Cloud Functions Invoker role, demonstrating how one function (function-b) can invoke another (function-a).
+
+Secret Manager is used to securely store API keys and passwords, with an example given of creating an API key in Secret Manager and granting access to a function to retrieve it.
+
+Deployment of cloud functions using source repositories like GitHub or Bitbucket is explained, with instructions on how to create a GitHub repository, mirror it to Google Cloud Source Repository, and deploy functions from the source repository.
+
+The tutorial explains how to implement Continuous Integration and Deployment (CI/CD) pipelines for cloud functions using Google Cloud Build. It provides instructions on creating build triggers in Cloud Build and defining steps in cloudbuild.yaml to install dependencies, run tests, and deploy functions.
+
+The tutorial demonstrates deploying cloud functions using Terraform. It explains the process of creating a zip archive of the function's source code and uploading it to a bucket. It also covers customizing function parameters such as runtime and access permissions.
+
+Event-driven functions are discussed, including triggering functions by messages published to Pub/Sub topics and change notifications from Google Cloud Storage. Examples are provided for setting up Pub/Sub topics, creating pubsub-function and gs-function with Python code snippets, and testing them by publishing messages or uploading files to the respective triggers.
+
+Lastly, the tutorial briefly introduces using Cloud Functions as a backend for the API Gateway. It covers enabling required Google services, creating service accounts, and configuring the API Gateway to communicate with a backend function using an OpenAPI Spec.

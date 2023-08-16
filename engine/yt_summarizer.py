@@ -14,8 +14,19 @@ from reportlab.pdfgen import canvas
 
 class YoutubeSummarizer():
     def __init__(self):
+
+        settings_file = open("settings.txt", "r")
+        api_text = settings_file.read();
+        settings_file.close()
+
+        api_key = ""
+        if  api_text.count("\n") > 0:
+            api_key = api_text[api_text.find("sk"):api_text.find("\n")]
+        else:
+            api_key = api_text[api_text.find("sk"):]
+
         # Set OpenAI Key
-        openai.api_key = "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"
+        openai.api_key = api_key
 
         #Define file path
         self.webdriver_path = os.path.normpath(os.path.join(os.getcwd(), 'resources/webdriver', webdriver_executable()))
